@@ -1,5 +1,5 @@
 {
-	"name": "wm-prognb-pascal-2025",
+	"name": "wm-pascal-playground",
 	"build": {
 		"dockerfile": "Dockerfile"
 	},
